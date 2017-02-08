@@ -1,0 +1,25 @@
+# This is the Lesser family with Lesser ascendance
+
+# Tatarabuelos Lesser
+Tatarabuelo Lesser (M)
+esposa (F)
+	Bisabuelo Lesser (M)
+
+# Bisabuelos Lesser
+Bisabuelo Lesser
+Bisabuela (F, birthday=~1925)
+	Eliseo Lesser (M)
+
+# Abuelos: Eliseo y Ana
+Eliseo Lesser
+Ana Lia Cazeaux (F, surname=Tata, birthday=1918-06-24)
+	Pedro Eliseo Lesser (M, birthday=1958-01-24, surname=Pedro el Grande)
+
+# Padres: Pedro y Sandra
+Pedro Eliseo Lesser
+Sandra Gioconda Sterchele
+# Sus hijos
+	Maria Lesser (F, birthday=1987-05-01)
+	Pedro Lesser (M, birthday=1988-04-13)
+	Ignacio Lesser (M, birthday=1989-09-23)
+	Manuel Lesser (M, birthday=1991-09-09)

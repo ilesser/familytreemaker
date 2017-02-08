@@ -1,0 +1,8 @@
+./familytreemaker.py LesserCazeaux.txt   -a "GuillermoI"             > LesserCazeaux.graph
+./familytreemaker.py LesserLesser.txt    -a "Tatarabuelo Lesser"     > LesserLesser.graph
+./familytreemaker.py LesserSterchele.txt -a "Tatarabuelo Sterchele"  > LesserSterchele.graph
+./familytreemaker.py LesserSeghezza.txt  -a "Tatarabuelo Seghezza"   > LesserSeghezza.graph
+dot LesserCazeaux.graph     -Tpng -o LesserCazeaux.png
+dot LesserLesser.graph      -Tpng -o LesserLesser.png
+dot LesserSterchele.graph   -Tpng -o LesserSterchele.png
+dot LesserSeghezza.graph    -Tpng -o LesserSeghezza.png

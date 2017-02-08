@@ -1,0 +1,30 @@
+# This is the Lesser family with Seghezza ascendance
+
+# Tatarabuelos Seghezza
+Tatarabuelo Seghezza (M)
+Tatarabuela (F)
+	Bisabuelo Seghezza (M)
+
+# Bisabuelos Seghezza
+Bisabuelo Seghezza
+Bisabuela (F)
+	Nelly Seghezza (M, surname=Lela)
+	Ernilde Seghezza (M)
+
+# Abuelos: Osvaldo y Nelly
+Osvaldo Sterchele (M)
+Nelly Seghezza
+	Graciela XX Sterchele (F)
+	Claudia Patricia Sterchele (F)
+	Adriana XX Sterchele (F)
+	Sandra Gioconda Sterchele (F, birthday=1958-06-23)
+
+# Padres: Pedro y Sandra
+Pedro Eliseo Lesser
+Sandra Gioconda Sterchele
+# Sus hijos
+	Maria Lesser (F, birthday=1987-05-01)
+	Pedro Lesser (M, birthday=1988-04-13)
+	Ignacio Lesser (M, birthday=1989-09-23)
+	Manuel Lesser (M, birthday=1991-09-09)
+

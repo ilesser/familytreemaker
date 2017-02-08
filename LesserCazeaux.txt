@@ -1,0 +1,32 @@
+# This is the Lesser family with Cazeaux ascendance
+
+# Taratabuelos Cazeaux
+Guillermo Cazeaux (M, id=GuillermoI)
+esposa (F)
+	Pedro Cazeaux (M, birthday=~1930, deathday=~1986)
+
+# Bisabuelos Cazeaux
+Pedro Cazeaux
+Maria Pouchulu (F, birthday=~1925)
+	Guillermo Cazeaux (M, birthday=1909-10-30, id=GuillermoII)
+	Maria Isabel Cazeaux (F, birthday=1910-12-27)
+	Pedro Nestor Cazeaux (M, birthday=1912-08-22, surname=Pico)
+	Celia Cazeaux (F, birthday=1915-08-27)
+	Juan Carlos Cazeaux (M, birthday=1916-12-14)
+	Ana Lia Cazeaux (F, surname=Tata, birthday=1918-06-24)
+	Elina Amanda Cazeaux (F, birthday=1920-05-22)
+
+
+# Abuelos: Eliseo y Ana
+Eliseo Lesser (M)
+Ana Lia Cazeaux
+	Pedro Eliseo Lesser (M, birthday=1958-01-24, surname=Pedro el Grande)
+
+# Padres: Pedro y Sandra
+Pedro Eliseo Lesser
+Sandra Gioconda Sterchele
+# Sus hijos
+	Maria Lesser (F, birthday=1987-05-01)
+	Pedro Lesser (M, birthday=1988-04-13)
+	Ignacio Lesser (M, birthday=1989-09-23)
+	Manuel Lesser (M, birthday=1991-09-09)
