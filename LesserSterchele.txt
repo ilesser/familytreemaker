@@ -1,23 +1,27 @@
 # This is the Lesser family with Sterchele ascendance
 
 # Tatarabuelos Sterchele
-Tatarabuelo Sterchele (M, id=GuillermoI)
-Tatarabuela (F)
-	Bisabuelo Sterchele (M)
+Domingo Sterchele (M)
+Blanca (F)
+	Aristides Mansueto Sterchele(M)
+	Arnoldo Sterchele(M, surname=Tio Chonga)
+	Armando Sterchele(M)
+	Americo Sterchele(M)
+
 
 # Bisabuelos Sterchele
-Bisabuelo Sterchele
-Bisabuela (F)
-	Osvaldo Sterchele (M)
-	Agenor Sterchele (M)
-	Ema Sterchele (F)
+Aristides Mansueto Sterchele
+Enriqueta Podesta(F)
+	Osvaldo Domingo Sterchele(M, birthday=1921-11-23)
+	Agenor Jose Sterchele (M, birthday=1923-11)
+	Ema Blanca Sterchele (F, birthday=1925-11)
 
 # Abuelos: Osvaldo y Nelly
-Osvaldo Sterchele
-Nelly Seghezza (M, surname=Lela)
-	Graciela XX Sterchele (F)
-	Claudia Patricia Sterchele (F)
-	Adriana XX Sterchele (F)
+Osvaldo Domingo Sterchele
+Nelly Teresa Seghezza (F, surname=Lela, birthday=1922-06-12)
+	Graciela Monica Sterchele (F, birthday=1952-01-30)
+	Adriana Silvia Sterchele (F, birthday=1955-10-06)
+	Claudia Patricia Sterchele (F, birthday=1957-03-31)
 	Sandra Gioconda Sterchele (F, birthday=1958-06-23)
 
 # Padres: Pedro y Sandra
