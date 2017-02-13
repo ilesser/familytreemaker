@@ -8,7 +8,13 @@ esposa (F)
 # Bisabuelos Lesser
 Bisabuelo Lesser
 Bisabuela (F, birthday=~1925)
+	Nelly Lesser (M)
+	Walterio Lesser (M)
+	Juana Fanny Lesser (F)
+	Dora Lesser (F)
 	Eliseo Lesser (M)
+	Martin Lesser (M)
+
 
 # Abuelos: Eliseo y Ana
 Eliseo Lesser
