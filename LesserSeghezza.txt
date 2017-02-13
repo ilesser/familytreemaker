@@ -2,21 +2,22 @@
 
 # Tatarabuelos Seghezza
 Tatarabuelo Seghezza (M)
-Tatarabuela (F)
-	Bisabuelo Seghezza (M)
+Zita Garzoglio (F)
+	Bartolome Seghezza(M)
 
 # Bisabuelos Seghezza
-Bisabuelo Seghezza
-Bisabuela (F)
-	Nelly Seghezza (M, surname=Lela)
-	Ernilde Seghezza (M)
+Bartolome Seghezza
+Maria Cafferata(F)
+	Santiago Bartolome Seghezza(M, birthday=1920)
+	Nelly Teresa Seghezza (F, surname=Lela, birthday=1922-06-12)
+	Ernilde Zita Seghezza (M, birthday=1924)
 
 # Abuelos: Osvaldo y Nelly
-Osvaldo Sterchele (M)
-Nelly Seghezza
-	Graciela XX Sterchele (F)
-	Claudia Patricia Sterchele (F)
-	Adriana XX Sterchele (F)
+Osvaldo Domingo Sterchele(M, birthday=1921-11-23)
+Nelly Teresa Seghezza
+	Graciela Monica Sterchele (F, birthday=1952-01-30)
+	Adriana Silvia Sterchele (F, birthday=1955-10-06)
+	Claudia Patricia Sterchele (F, birthday=1957-03-31)
 	Sandra Gioconda Sterchele (F, birthday=1958-06-23)
 
 # Padres: Pedro y Sandra
